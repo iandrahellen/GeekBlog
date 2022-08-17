@@ -1,0 +1,53 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: ffff;
+	
+}
+
+/*
+**** Layout ****
+*/
+#area-cabecalho {
+	background-color: #48D1CC;
+	padding: 15px;
+	text-align: center;
+}
+
+
+
+#area-principal {
+	width: 920px;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+#area-postagens {
+	width: 660px;
+	float: left;
+}
+
+
+
+.postagem{
+	padding: 20px;
+	margin-bottom:20px;
+	background: white;
+}
+
+h3 {
+	color: #f7b600;
+	padding: 15px;
+}
+
+
+
+.branco{
+	color: white;
+}
+
